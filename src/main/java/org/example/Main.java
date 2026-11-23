@@ -202,6 +202,7 @@ public class Main {
                     }
                     System.out.println(Jack.getLocation() +" "+ Jack.getStatus() +" "+ Jack.getWaitingCount());
                     System.out.println(mike.getLocation() +" "+ mike.getStatus() +" "+ mike.getWaitingCount());
+                    System.out.println("good")
                 }
                 hour++;  // 本轮处理完，下次就进入下一小时
             }
